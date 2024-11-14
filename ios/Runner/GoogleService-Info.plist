@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDfi_0-SzuJBmj4FYca-8BAkupM5egic8o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>320515886578</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hortijoy.hortijoy</string>
+	<key>PROJECT_ID</key>
+	<string>hortijoy-staging</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hortijoy-staging.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:320515886578:ios:9f0de2b965a9d2e2d06f6b</string>
+	<key>DATABASE_URL</key>
+	<string>https://hortijoy-staging-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

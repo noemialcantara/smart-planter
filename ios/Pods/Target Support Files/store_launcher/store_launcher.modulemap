@@ -1,0 +1,6 @@
+framework module store_launcher {
+  umbrella header "store_launcher-umbrella.h"
+
+  export *
+  module * { export * }
+}

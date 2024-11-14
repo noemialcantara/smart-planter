@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "320515886578",
+    "firebase_url": "https://hortijoy-staging-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hortijoy-staging",
+    "storage_bucket": "hortijoy-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320515886578:android:fc5b745035014498d06f6b",
+        "android_client_info": {
+          "package_name": "com.dosenyo.hortijoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320515886578-tlcjujg5f9e4aklrsc6c96ie2dr3nc96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1u-7kEVBnnOAilQynS_0_2UsGyE25wrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320515886578-tlcjujg5f9e4aklrsc6c96ie2dr3nc96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320515886578-kbpjjhksdmpim5spv3ue058dkn22vclk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dosenyo.hortijoy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320515886578:android:d652832d71ce35d2d06f6b",
+        "android_client_info": {
+          "package_name": "com.hortijoy.hortijoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320515886578-tlcjujg5f9e4aklrsc6c96ie2dr3nc96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1u-7kEVBnnOAilQynS_0_2UsGyE25wrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320515886578-tlcjujg5f9e4aklrsc6c96ie2dr3nc96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320515886578-kbpjjhksdmpim5spv3ue058dkn22vclk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dosenyo.hortijoy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "path_provider_ex",
+  "version": "0.0.1",
+  "summary": "An Android path provider for Flutter that provides root and app files directory for both &quot;external storage&quot; (internal flash) and SD card (if present), as well as available space for each storage.",
+  "description": "An Android path provider for Flutter that provides root and app files directory for both &quot;external storage&quot; (internal flash) and SD card (if present), as well as available space for each storage.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}
